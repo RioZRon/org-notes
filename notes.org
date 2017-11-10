@@ -1,0 +1,7 @@
+* Quick notes
+
+** WAIT [#C] 蒯倩推迟体测到下午 
+  %![Error: (void-function zilongshanren/retrieve-chrome-current-tab-url)]
+ 
+  [2017-11-09 Thu 15:58]
+

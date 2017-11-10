@@ -1,0 +1,18 @@
+* Workspace
+** NEXT [#B] 毕业生生源审核
+   CLOSED: [2017-11-09 Thu 15:57] SCHEDULED: <2017-11-09 Thu> DEADLINE: <2017-11-09 Thu 12:00>
+   户口迁过来 户口所在地填写山东省青岛市黄岛区长江中路2号
+
+** TODO [#B] 把医保卡寄回去 
+   DEADLINE: <2017-11-09 Thu 18:00>
+   :LOGBOOK:
+   CLOCK: [2017-11-09 Thu 14:49]--[2017-11-09 Thu 15:14] =>  0:25
+   :END:
+
+** WAIT [#C] 蒯倩推迟体测到下午
+* Music
+** Spinning Grouplove Big Mess 
+  [2017-11-09 Thu 11:20]
+
+
+  
